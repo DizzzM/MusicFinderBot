@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicFinderBot", "MusicFinderBot.csproj", "{8F840D8C-17EF-4BE8-BE7F-1E75A637BFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F840D8C-17EF-4BE8-BE7F-1E75A637BFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F840D8C-17EF-4BE8-BE7F-1E75A637BFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F840D8C-17EF-4BE8-BE7F-1E75A637BFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F840D8C-17EF-4BE8-BE7F-1E75A637BFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83100F61-AC04-460E-94DC-DB5D6085603B}
+	EndGlobalSection
+EndGlobal
