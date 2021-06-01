@@ -8,7 +8,7 @@ namespace MusicFinderBot.Models
     public static class BotSettings
     {
         public static TelegramBotClient TelegramClient;
-        private static readonly string Key = @"1873082743:AAE6UfL_VUwN701VSZ4H3qpkJoEVjTmKH9w";
+        private static readonly string Key = @"";
 
         private static List<Command> _commands;
         public static IReadOnlyList<Command> Commands { get => _commands.AsReadOnly(); }
